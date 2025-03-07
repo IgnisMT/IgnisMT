@@ -27,12 +27,16 @@
 
 ```javascript
 const ignisMT = {
+  pronouns: "he" | "him",
   country: "Costa Rica 🇨🇷",
-  currentlyLearning: "Everything useful",
-  lookingToCollaborate: "Open source projects",
-  askMeAbout: "DevOps",
-  interests: ["Music", "Anime", "Sports"],
-  funFact: "Mi nombre significa 'fuego' en latín"
+  role: "Full Stack Developer & DevOps Engineer",
+  currentlyLearning: "Everything useful for growth",
+  lookingToCollaborate: ["Open source projects", "Innovative ideas"],
+  askMeAbout: ["DevOps", "Web Dev", "Tech", "Cloud Architecture"],
+  interests: ["Music 🎵", "Anime 🎬", "Sports 🏀", "Coding 💻"],
+  challenges: "Actualmente aprendiendo algo nuevo cada día",
+  goal: "Contribuir a proyectos que impacten positivamente",
+  funFact: "Mi nombre significa 'fuego' en latín ⚡"
 };
 ```
 
