@@ -36,7 +36,7 @@ const ignisMT = {
   interests: ["Music 🎵", "Anime 🎬", "Sports 🏀", "Coding 💻"],
   challenges: "Actualmente aprendiendo algo nuevo cada día",
   goal: "Contribuir a proyectos que impacten positivamente",
-  funFact: "Mi nombre significa 'fuego' en latín ⚡"
+  funFact: "Ignis significa 'fuego' en latín ⚡"
 };
 ```
 
