@@ -13,8 +13,8 @@
 ## 📸 Imágenes
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/58db2517-11ac-4762-8009-ff3e946e374d" alt="Multiprogramming Environment" width="400"/>
-  <img src="https://github.com/user-attachments/assets/f758cc13-9272-4379-a0f1-1a1af0a8166f" alt="Octocats" width="400"/>
+  <img src="https://github.com/user-attachments/assets/58db2517-11ac-4762-8009-ff3e946e374d" alt="Multiprogramming Environment" height="350" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f758cc13-9272-4379-a0f1-1a1af0a8166f" alt="Octocats" height="350" width="400"/>
 </div>
 
 ## 🏆 GitHub Trophies
