@@ -10,6 +10,12 @@
   </a>
 </p>
 
+## 🎨 Banner
+
+<div align="center">
+  <img src="./Banner.png" alt="IgnisMT Banner" width="100%"/>
+</div>
+
 ## 📸 Imágenes
 
 <div align="center">
@@ -43,7 +49,14 @@ const ignisMT = {
 ## 🛠 Tecnologías y Herramientas
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif" width="400">
+  </picture>
   
+  <div align="right" style="width: 50%;">
+    
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
   ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -65,7 +78,11 @@ const ignisMT = {
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+  
+  </div>
 </div>
+
+<br clear="both"/>
 
 ## 📊 GitHub Stats
 
@@ -99,3 +116,15 @@ const ignisMT = {
 <div align="center">
   <i>⚡ Recuerda: El código es poesía escrita en lógica ⚡</i>
 </div>
+
+💭 Quote of the Day
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Euripides&quote=Waste%20not%20fresh%20tears%20over%20old%20griefs.&theme=algolia&bg_color=050f2c&author_color=58a6ff&accent_color=79c0ff">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
