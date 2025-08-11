@@ -10,8 +10,7 @@
   </a>
 </p>
 
-## 🎨 Banner
-
+<!--Banner-->
 <div align="center">
   <img src="./Banner.png" alt="IgnisMT Banner" width="100%"/>
 </div>
