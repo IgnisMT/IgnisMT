@@ -63,9 +63,8 @@
 <!-- ============================================= -->
 
 ## 👨‍💻 Sobre Mí
-
+<!-- Objeto que describe mi perfil profesional -->
 ```javascript
-// Objeto que describe mi perfil profesional
 const ignisMT = {
   pronouns: "he" | "him",
   country: "Costa Rica 🇨🇷",
