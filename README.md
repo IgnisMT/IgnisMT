@@ -168,10 +168,7 @@ const ignisMT = {
 <!-- Estadísticas generales y lenguajes más usados -->
 <p align="center">
   <a href="https://github.com/ignismt">
-    <!-- Tarjeta de estadísticas generales -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ignismt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    
-    <!-- Tarjeta de lenguajes más utilizados -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignismt&layout=compact&langs_count=7&theme=algolia"/>
   </a>
 </p>
