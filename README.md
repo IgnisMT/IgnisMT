@@ -2,11 +2,11 @@
 <!-- ENCABEZADO PRINCIPAL -->
 <!-- ============================================= -->
 
-# <div align="center">👨‍💻 IgnisMT</div>
+# <div align="center">💻 IgnisMT 🌐</div>
 
 <!-- Animación de texto dinámico -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Apasionado;DevOps+Enthusiast;De+Costa+Rica+🇨🇷&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Desarrollador+Apasionado+✨;💻+DevOps+Enthusiast+💻;⚡+Web+Development+%26+Networks+🔥;🌐+De+Costa+Rica+🇨🇷&font=Orbitron&center=true&width=800&height=70&color=00FFFF&vCenter=true&size=20&pause=1000&background=0d1117&border=30363d" />
 </div>
 
 <!-- ============================================= -->
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/github/followers/ignismt?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="Followers"/>
   
   <!-- Badge personalizado de enfoque -->
-  <img src="https://img.shields.io/badge/Focus-Innovation-brightgreen?style=for-the-badge&labelColor=black" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Innovation-FFD700?style=for-the-badge&labelColor=0a0a0a" alt="Focus"/>
 </p>
 
 <!-- ============================================= -->
@@ -85,16 +85,19 @@ const ignisMT = {
 
 ## 🛠 Tecnologías y Herramientas
 
+<!-- Animación de habilidades centrada en la parte superior -->
 <div align="center">
-  <!-- Animación de habilidades (adapta según el tema oscuro/claro) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif" width="600" style="margin-right: 20px;">
-</picture>
-  
-  <!-- Lista de tecnologías organizadas por categorías -->
-  <div align="right" style="width: 50%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="600">
+  </picture>
+</div>
+
+<br>
+
+<!-- Lista de tecnologías organizadas por categorías -->
+<div align="center">
 
 ### 🎨 Frontend
 <!-- Tecnologías de desarrollo frontend -->
@@ -152,10 +155,8 @@ const ignisMT = {
 ### 📄 Otros
 <!-- Otras tecnologías -->
 ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
-  
-  </div>
-</div>
 
+</div>
 <br clear="both"/>
 
 <!-- ============================================= -->
