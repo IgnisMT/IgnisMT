@@ -38,10 +38,10 @@
 
 <div align="center">
   <!-- Imagen de entorno de multiprogramación -->
-  <img src="https://github.com/user-attachments/assets/58db2517-11ac-4762-8009-ff3e946e374d" alt="Multiprogramming Environment" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" height="300" width="380"/>
+  <img src="./Multiprogramming.gif" alt="Multiprogramming Environment" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" height="300" width="380"/>
   
   <!-- Imagen de Octocats -->
-  <img src="https://github.com/user-attachments/assets/f758cc13-9272-4379-a0f1-1a1af0a8166f" alt="Octocats" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" height="300" width="380"/>
+  <img src="./Octocats.gif" alt="Octocats" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" height="300" width="380"/>
 </div>
 
 <!-- ============================================= -->
