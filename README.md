@@ -69,8 +69,8 @@
 <!-- Objeto que describe mi perfil profesional -->
 ```javascript
 const ignisMT = {
-  pronouns: "he" | "him",
   country: "Costa Rica 🇨🇷",
+  languages: ["Spanish", "English"],
   role: "Full Stack Developer & DevOps Engineer",
   currentlyLearning: "Everything useful for growth",
   lookingToCollaborate: ["Open source projects", "Innovative ideas"],
