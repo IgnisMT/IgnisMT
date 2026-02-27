@@ -1,7 +1,3 @@
-<!-- ============================================= -->
-<!-- ENCABEZADO PRINCIPAL -->
-<!-- ============================================= -->
-
 # <div align="center">💻 IgnisMT 🌐</div>
 
 <!-- Animación de texto dinámico -->
@@ -55,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ignismt&theme=algolia&column=4&margin-w=15&margin-h=15" alt="ignismt"/>
+  <img src="https://github-profile-trophy-one-swart.vercel.app/?username=ignismt&theme=algolia&column=4&margin-w=15&margin-h=15" alt="ignismt"/>
 </div>
 
 <!-- ============================================= -->
@@ -168,14 +164,14 @@ const ignisMT = {
 <!-- Estadísticas generales y lenguajes más usados -->
 <p align="center">
   <a href="https://github.com/ignismt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ignismt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignismt&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-omega-three-80.vercel.app/api?username=ignismt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-omega-three-80.vercel.app/api/top-langs/?username=ignismt&layout=compact&langs_count=7&theme=algolia"/>
   </a>
 </p>
 
 <!-- Racha de contribuciones -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismt&theme=algolia" alt="ignismt" />
+  <img src="https://streak-stats.demolab.com?user=ignismt&theme=algolia" alt="ignismt" />
 </div>
 
 <!-- Gráfico de actividad de contribuciones -->
