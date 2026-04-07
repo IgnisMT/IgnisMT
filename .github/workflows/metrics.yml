@@ -23,6 +23,9 @@ jobs:
           
           # 🚀 CONFIGURACIÓN DE LENGUAJES
           plugin_languages: yes
+          # 🧊 CALENDARIO ISOMÉTRICO 3D
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages_limit: 15 # ¡Aquí está la magia! Puedes subir este número
           plugin_languages_colors: github
           plugin_languages_threshold: 0% # Asegura que cuente hasta los lenguajes que menos usas
