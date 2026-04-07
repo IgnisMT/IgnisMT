@@ -157,7 +157,7 @@ const ignisMT = {
 <p align="center">
   <a href="https://github.com/ignismt">
     <img height="180em" src="https://github-readme-stats-omega-three-80.vercel.app/api?username=ignismt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-omega-three-80.vercel.app/api/top-langs/?username=ignismt&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-omega-three-80.vercel.app/api/top-langs/?username=ignismt&layout=compact&langs_count=10&theme=algolia"/>
   </a>
 </p>
 
