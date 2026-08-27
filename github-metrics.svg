@@ -23,7 +23,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="380.412046624227" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="380.412046624227" y="0" width="30.931423653620566" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="411.3434702778476" y="0" width="19.60663393525153" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="411.3434702778476" y="0" width="19.60663393525153" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="430.9501042130991" y="0" width="14.454011723111961" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="445.40411593621104" y="0" width="8.446490259851005" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="453.8506061960621" y="0" width="3.5461290122446028" height="8" fill="#3572A5"/>
@@ -47,7 +47,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C#
                             </div>
@@ -2128,6 +2128,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
